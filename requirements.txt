@@ -1,0 +1,8 @@
+kmapper
+matplotlib
+scikit_learn
+umap
+umap_learn
+ipywidgets
+plotly
+numpy==1.19.5
