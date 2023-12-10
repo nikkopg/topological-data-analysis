@@ -5,4 +5,5 @@ umap
 umap_learn
 ipywidgets
 plotly
+kaleido
 numpy==1.19.5
